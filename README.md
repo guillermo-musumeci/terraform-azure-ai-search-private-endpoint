@@ -5,6 +5,8 @@
 
 Deploying an Azure AI Search Service with a Private Endpoint
 
+Blog --> https://gmusumeci.medium.com/how-to-deploy-azure-ai-search-with-a-private-endpoint-using-terraform-3b63c8b84f41
+
 ## Code creates:
 
 - Resource Group for Network
