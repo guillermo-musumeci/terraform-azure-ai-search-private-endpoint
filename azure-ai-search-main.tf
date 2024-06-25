@@ -16,3 +16,4 @@ resource "azurerm_search_service" "this" {
 
   tags = var.tags
 }
+
