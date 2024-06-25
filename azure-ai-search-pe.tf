@@ -1,3 +1,7 @@
+######################################
+## Azure AI Search Private Endpoint ##
+######################################
+
 # Create Private DNS Zone Virtual Network Link
 resource "azurerm_private_dns_zone_virtual_network_link" "this" {
   name                  = "${lower(replace(var.company," ","-"))}-${var.app_name}-${var.environment}-vnet-link"
